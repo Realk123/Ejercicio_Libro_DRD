@@ -1,0 +1,64 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+6
+Day(1)
+7
+'lunes'
+6
+Day(2)
+8
+'martes'
+6
+Day(3)
+11
+'miercoles'
+6
+3
+6
+Day(4)
+8
+'jueves'
+6
+Day(5)
+9
+'viernes'
+6
+Day(6)
+8
+'sabado'
+6
+1
+6
+Day(7)
+9
+'domingo'
+4
+1
+58
+'Introduzca un numero para saber cual dia de la semana es'
+5
+1
+1
+d
+7
+0
+1
+14
+d >=1 and d<=7
+4
+1
+31
+'NO ES NINGUN DIA DE LA SEMANA'
+13
+4
+1
+33
+'Su dia de la semana es ', Day(d)
+13
+1
